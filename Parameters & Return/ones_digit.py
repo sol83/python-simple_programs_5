@@ -11,7 +11,7 @@ The ones digit is 2
 """
 
 def print_ones_digit(num):
-    # delete the pass statement below and write your code!
+    # write your code below!
     print("The ones digit is", num % 10)
 
 def main():
